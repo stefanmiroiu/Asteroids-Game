@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Asteroids Game</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    </head>
+    <body>
+        <div id="interfataUser">
+            <div>Scor: <span id = "scor">0</span></div>
+            <div>Vieti: <span id = "vieti">3</span></div>
+        </div>
+
+        <div id="topScoruri">
+            <h3>Top 5 scoruri: </h3>
+            <ul id="lista-scoruri"></ul>
+        </div>
+        
+        <canvas id="canvasId">Your browser does not support this canvas.</canvas>
+
+        <div id="ecranGameOver">
+            <h1>JOC TERMINAT</h1>
+            <p>Scor final: <span id="scorFinal">0</span></p>
+            <input type="text" id="numeJucator" placeholder="Numele tau" maxlength="10">
+            <button id="btnSalveaza">Salveaza si Restart</button>
+        </div>
+
+        <div id="touchControls" style="margin-top: 10px; text-align: center;">
+            <button id="btnZ">Z</button>
+            <button id="btnLeft">←</button>
+            <button id="btnUp">↑</button>
+            <button id="btnDown">↓</button>
+         
+            <button id="btnRight">→</button>
+            
+            <button id="btnC">C</button>
+            <button id="btnX">X</button>
+        </div>
+
+    <script src="script.js"></script>
+    </body>
+</html> 
