@@ -5,7 +5,7 @@ A fully playable, browser-based recreation of the classic arcade shooter "Astero
 ![Game Screenshot](media/gameplay.png)
 
 ## 🎮 Play the Game
-[**Click here to play the live demo!**](https://your-username.github.io/repo-name/)
+[**Click here to play the live demo!**](https://stefanmiroiu.github.io/Asteroids-Game/)
 
 ## ✨ Key Features
 
