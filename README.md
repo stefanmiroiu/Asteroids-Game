@@ -3,11 +3,9 @@
 A fully playable, browser-based recreation of the classic arcade shooter "Asteroids". Built entirely from scratch using **Vanilla JavaScript** and the **HTML5 Canvas API**, featuring custom physics, mobile support, and local data persistence.
 
 ![Game Screenshot](media/gameplay.png)
-*(Note: Add a screenshot of your game here for better engagement!)*
 
 ## 🎮 Play the Game
 [**Click here to play the live demo!**](https://your-username.github.io/repo-name/)
-*(Don't forget to enable GitHub Pages in your repository settings to get this link)*
 
 ## ✨ Key Features
 
